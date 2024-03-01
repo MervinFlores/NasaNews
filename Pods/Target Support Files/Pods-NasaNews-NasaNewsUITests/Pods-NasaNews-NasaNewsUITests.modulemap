@@ -1,0 +1,6 @@
+framework module Pods_NasaNews_NasaNewsUITests {
+  umbrella header "Pods-NasaNews-NasaNewsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
