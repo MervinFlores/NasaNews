@@ -31,8 +31,9 @@ This application is structured following the Model-View-ViewModel (MVVM) pattern
 To run the NasaNews app:
 
 1. Clone the repository.
-2. Open `NasaNews.xcodeproj` in Xcode.
-3. Build and run the application on your preferred iOS device or simulator.
+2. run `pod install` in project folder.
+3. Open `NasaNews.xcodeproj` in Xcode.
+4. Build and run the application on your preferred iOS device or simulator.
 
 ## Usage
 
@@ -42,11 +43,6 @@ Upon launching, the app presents a list of images. Users can select any image to
 
 We welcome contributions to the NasaNews app. If you have suggestions or want to improve the codebase, please feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgements
 
-- Thanks to NASA for providing a public API with a wealth of information on space and celestial bodies.
-- Appreciation for all contributors and testers who have helped refine the NasaNews app.
+- Hope that this test give a quick and high level idea about the MVVM pattern and Swift develop
